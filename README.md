@@ -1,8 +1,7 @@
 # DRGNN: Uncertainty-Aware Robust Learning on Noisy Graphs
 
 Implementation of the paper: 
-**Uncertainty-Aware Robust Learning on Noisy Graphs**  
-*Shuyi Chen, Kaize Ding, Shixiang Zhu*  
+**Uncertainty-Aware Robust Learning on Noisy Graphs**    
 ICASSP 2025 – IEEE International Conference on Acoustics, Speech and Signal Processing  
 [IEEE Link](https://doi.org/10.1109/ICASSP49660.2025.10888672)
 
